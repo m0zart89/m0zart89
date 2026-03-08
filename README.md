@@ -1,21 +1,24 @@
 # Eugen Mikhailenko
 
-Senior Platform / Cloud Engineer with hands-on experience in Kubernetes, Terraform, CI/CD, cloud infrastructure, and production systems.
+Senior Platform / Cloud Engineer focused on building reliable infrastructure, scalable deployment systems, and engineering platforms.
 
-## Core Focus
+## Core Technologies
+Kubernetes • Terraform • Docker • AWS • CI/CD • Python • Observability • GitOps
+
+## Professional Focus
 - Platform Engineering
-- Kubernetes & Cloud Infrastructure
 - Infrastructure Automation
-- Reliability & Observability
-- CI/CD and Deployment Systems
+- Reliability & Production Systems
+- Deployment Pipelines
+- Cloud Architecture
 
 ## Current Interests
-- Platform evolution toward ML-aware infrastructure
-- Scalable engineering environments
+- ML-aware platform practices
 - AI-assisted engineering workflows
+- Product-oriented infrastructure design
 
 ## Selected Repositories
-- Infrastructure automation demos
-- Kubernetes deployment examples
+- Infrastructure provisioning and IaC demos
+- Platform engineering experiments
 - Python operational tooling
-- ML learning projects
+- ML coursework and experiments
