@@ -1,24 +1,14 @@
-# Eugen Mikhailenko
+## Eugen Mikhailenko — Platform Engineer
 
-Senior Platform / Cloud Engineer focused on building reliable infrastructure, scalable deployment systems, and engineering platforms.
+I build control planes, bare-metal provisioning pipelines, and API-first
+infrastructure systems. 10+ years operating distributed systems at scale.
 
-## Core Technologies
-Kubernetes • Terraform • Docker • AWS • CI/CD • Python • Observability • GitOps
+**What I work on:**
+- Control plane design — lifecycle APIs, reconciliation loops, state machines
+- Bare-metal orchestration — OpenStack Ironic, PXE/iPXE, IPMI/Redfish, IPA workflows
+- Kubernetes platforms — workload scheduling, Helm-based lifecycle, multi-region
+- Distributed storage — Ceph clusters at 2PB+ scale
+- API-first infra — FastAPI services replacing queue-driven provisioning
 
-## Professional Focus
-- Platform Engineering
-- Infrastructure Automation
-- Reliability & Production Systems
-- Deployment Pipelines
-- Cloud Architecture
+**Stack:** Python · Rust (learning) · Kubernetes · Terraform · Prometheus · Ceph · OpenStack
 
-## Current Interests
-- ML-aware platform practices
-- AI-assisted engineering workflows
-- Product-oriented infrastructure design
-
-## Selected Repositories
-- Infrastructure provisioning and IaC demos
-- Platform engineering experiments
-- Python operational tooling
-- ML coursework and experiments
