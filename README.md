@@ -1,7 +1,7 @@
 ## Eugen Mikhailenko — Platform Engineer
 
 I build control planes, bare-metal provisioning pipelines, and API-first
-infrastructure systems. 10+ years operating distributed systems at scale.
+infrastructure systems. 11+ years operating distributed systems at scale.
 
 **What I work on:**
 - Control plane design — lifecycle APIs, reconciliation loops, state machines
@@ -12,3 +12,4 @@ infrastructure systems. 10+ years operating distributed systems at scale.
 
 **Stack:** Python · Rust (learning) · Kubernetes · Terraform · Prometheus · Ceph · OpenStack
 
+**Contact:** [LinkedIn](https://linkedin.com/in/eugen-mikhailenko) · e.p.mihailenko@gmail.com
